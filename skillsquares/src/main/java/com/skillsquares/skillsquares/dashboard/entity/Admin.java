@@ -1,11 +1,11 @@
 package com.skillsquares.skillsquares.dashboard.entity;
 
 import jakarta.persistence.*;
-import lombok.Data;
+import lombok.*;
 
-@Data
 @Entity
 @Table(name = "admins")
+@Data
 public class Admin {
 
     @Id
