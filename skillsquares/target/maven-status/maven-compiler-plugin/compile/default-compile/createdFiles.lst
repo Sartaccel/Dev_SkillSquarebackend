@@ -1,0 +1,14 @@
+com\skillsquares\skillsquares\dashboard\config\CorsConfig.class
+com\skillsquares\skillsquares\dashboard\config\SecurityConfig.class
+com\skillsquares\skillsquares\SkillsquaresApplication.class
+com\skillsquares\skillsquares\dashboard\entity\Admin.class
+com\skillsquares\skillsquares\dashboard\controller\AdminAuthController.class
+com\skillsquares\skillsquares\dashboard\repository\AdminRepository.class
+com\skillsquares\skillsquares\webapp\controller\CandidateController.class
+com\skillsquares\skillsquares\dashboard\service\AdminAuthService.class
+com\skillsquares\skillsquares\dashboard\dto\LoginRequest.class
+com\skillsquares\skillsquares\dashboard\dto\LoginResponse.class
+com\skillsquares\skillsquares\dashboard\config\DataLoader.class
+com\skillsquares\skillsquares\webapp\entity\Candidate.class
+com\skillsquares\skillsquares\dashboard\config\CorsConfig$1.class
+com\skillsquares\skillsquares\webapp\repository\CandidateRepository.class

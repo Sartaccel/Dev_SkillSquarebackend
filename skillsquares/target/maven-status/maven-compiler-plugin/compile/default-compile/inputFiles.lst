@@ -1,0 +1,13 @@
+D:\SkillSquares\skillsquare_dashboard\dashboard_backend\Dev_SkillSquarebackend\skillsquares\src\main\java\com\skillsquares\skillsquares\dashboard\config\CorsConfig.java
+D:\SkillSquares\skillsquare_dashboard\dashboard_backend\Dev_SkillSquarebackend\skillsquares\src\main\java\com\skillsquares\skillsquares\dashboard\config\DataLoader.java
+D:\SkillSquares\skillsquare_dashboard\dashboard_backend\Dev_SkillSquarebackend\skillsquares\src\main\java\com\skillsquares\skillsquares\dashboard\config\SecurityConfig.java
+D:\SkillSquares\skillsquare_dashboard\dashboard_backend\Dev_SkillSquarebackend\skillsquares\src\main\java\com\skillsquares\skillsquares\dashboard\controller\AdminAuthController.java
+D:\SkillSquares\skillsquare_dashboard\dashboard_backend\Dev_SkillSquarebackend\skillsquares\src\main\java\com\skillsquares\skillsquares\dashboard\dto\LoginRequest.java
+D:\SkillSquares\skillsquare_dashboard\dashboard_backend\Dev_SkillSquarebackend\skillsquares\src\main\java\com\skillsquares\skillsquares\dashboard\dto\LoginResponse.java
+D:\SkillSquares\skillsquare_dashboard\dashboard_backend\Dev_SkillSquarebackend\skillsquares\src\main\java\com\skillsquares\skillsquares\dashboard\entity\Admin.java
+D:\SkillSquares\skillsquare_dashboard\dashboard_backend\Dev_SkillSquarebackend\skillsquares\src\main\java\com\skillsquares\skillsquares\dashboard\repository\AdminRepository.java
+D:\SkillSquares\skillsquare_dashboard\dashboard_backend\Dev_SkillSquarebackend\skillsquares\src\main\java\com\skillsquares\skillsquares\dashboard\service\AdminAuthService.java
+D:\SkillSquares\skillsquare_dashboard\dashboard_backend\Dev_SkillSquarebackend\skillsquares\src\main\java\com\skillsquares\skillsquares\SkillsquaresApplication.java
+D:\SkillSquares\skillsquare_dashboard\dashboard_backend\Dev_SkillSquarebackend\skillsquares\src\main\java\com\skillsquares\skillsquares\webapp\controller\CandidateController.java
+D:\SkillSquares\skillsquare_dashboard\dashboard_backend\Dev_SkillSquarebackend\skillsquares\src\main\java\com\skillsquares\skillsquares\webapp\entity\Candidate.java
+D:\SkillSquares\skillsquare_dashboard\dashboard_backend\Dev_SkillSquarebackend\skillsquares\src\main\java\com\skillsquares\skillsquares\webapp\repository\CandidateRepository.java
