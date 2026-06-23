@@ -24,7 +24,6 @@ public class Candidate {
     @Email(message = "Invalid Email")
     private String email;
 
-    @NotBlank(message = "Mobile Number is required")
     private String mobileNumber;
 
     @NotBlank(message = "College is required")
