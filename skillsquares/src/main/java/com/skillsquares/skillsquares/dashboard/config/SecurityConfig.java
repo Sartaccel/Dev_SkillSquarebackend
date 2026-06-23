@@ -20,7 +20,8 @@ public class SecurityConfig {
                 .authorizeHttpRequests(auth -> auth
                         .requestMatchers(
                                 "/admin/login",
-                                "/candidates"
+                                "/candidates",
+                                "/enquiry/**"
                         ).permitAll()
                         .anyRequest().authenticated()
                 )
