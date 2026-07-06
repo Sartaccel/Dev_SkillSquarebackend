@@ -70,5 +70,8 @@ public class AssessmentService {
 
         return response;
     }
+    public long getAttemptsUsed(String email) {
+        return assessmentRepository.countByCandidateEmail(email);
+    }
 
 }

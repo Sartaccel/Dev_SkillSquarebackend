@@ -7,6 +7,8 @@ import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
+import java.util.Map;
+
 @RestController
 @RequestMapping("/assessment")
 public class AssessmentController {
@@ -21,4 +23,9 @@ public class AssessmentController {
         return assessmentService.submitAssessment(request);
     }
 
+    @GetMapping("/attempts")
+    public Map<String, Long> getAttempts(@RequestParam String email) {
+        long attemptsUsed = assessmentService.getAttemptsUsed(email);
+        return Map.of("attemptsUsed", attemptsUsed);
+    }
 }
