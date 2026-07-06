@@ -1,6 +1,5 @@
 package com.skillsquares.skillsquares.webapp.controller;
 
-
 import com.skillsquares.skillsquares.webapp.entity.CollegeEnquiry;
 import com.skillsquares.skillsquares.webapp.service.CollegeEnquiryService;
 import lombok.RequiredArgsConstructor;
