@@ -7,6 +7,9 @@ import java.util.Optional;
 
 public interface CandidateRepository extends JpaRepository<Candidate, Long> {
 
+    // Used in AssessmentService
     Optional<Candidate> findByEmail(String email);
 
+    // Used in CandidateController
+    long countByEmail(String email);
 }
